@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator_1</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="not_enough">You Need Two Arguments!</string>
+    <string name="incorrect_divide">Cannot Divide By 0!</string>
+    <string name="incorrect_modulo">Cannot Modulo By 0!</string>
+</resources>
